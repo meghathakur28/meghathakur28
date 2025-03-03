@@ -45,9 +45,9 @@ Hello! I'm Megha Thakur, a third-year BTech Computer Science Engineering student
 ## 📬 Contact Me
 Feel free to reach out to me if you are interested in collaborating or discussing exciting projects in Data Science and Machine Learning!
 
-- **Email**: megha.thakur@email.com
-- **LinkedIn**: [linkedin.com/in/meghathakur](https://linkedin.com/in/meghathakur)
-- **GitHub**: [github.com/meghathakur](https://github.com/meghathakur)
+- **Email**: megha.thakur292@email.com
+- **LinkedIn**: [linkedin.com/in/meghathakur](https://linkedin.com/in/meghathakur28)
+- **GitHub**: [github.com/meghathakur](https://github.com/meghathakur28)
 
 ---
 

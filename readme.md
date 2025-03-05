@@ -8,15 +8,14 @@ Hello! I'm Megha Thakur, a third-year BTech Computer Science Engineering student
 - **Course**: BTech in Computer Science Engineering (CSE)
 - **Specialization**: Data Science
 - **Year**: 3rd Year
-- **Email**: megha.thakur@email.com
-- **LinkedIn**: [linkedin.com/in/meghathakur](https://linkedin.com/in/meghathakur)
+- **Email**: megha.thakur292@email.com
+- **LinkedIn**: [linkedin.com/in/meghathakur28](https://linkedin.com/in/meghathakur28)
 
 ## 🧑‍💻 Skills & Technologies
-- **Programming Languages**: Python, Java, C++
-- **Data Science**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras
+- **Programming Languages**: Java, C++,R,Python
 - **Machine Learning**: Supervised & Unsupervised Learning, Regression, Classification, Clustering, NLP
 - **Database**: SQL, MongoDB
-- **Tools**: Jupyter, Google Colab, Git, Docker
+- **Tools**: Tableau, PowerBI, MS-excel 
 - **Version Control**: Git/GitHub
 
 ## 📂 Projects

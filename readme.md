@@ -20,29 +20,30 @@ Hello! I'm Megha Thakur, a third-year BTech Computer Science Engineering student
 
 ## 📂 Projects
 
-### 1. **Customer Churn Prediction**
-- **Description**: Built a machine learning model to predict customer churn for a telecom company using a dataset. The model used various classification techniques like Logistic Regression, Random Forest, and SVM.
-- **Technologies Used**: Python, Scikit-learn, Pandas, Matplotlib
-
-### 2. **Stock Price Prediction**
-- **Description**: Designed a model to predict stock prices using historical stock data and machine learning algorithms such as Linear Regression and LSTM (Long Short-Term Memory).
-- **Technologies Used**: Python, Keras, TensorFlow, Pandas, Matplotlib
-
-### 3. **Image Classification with CNN**
-- **Description**: Built an image classification model using Convolutional Neural Networks (CNN) for classifying images from a dataset.
-- **Technologies Used**: Python, TensorFlow, Keras, OpenCV
-
-### 4. **Sentiment Analysis**
-- **Description**: Developed a sentiment analysis tool using Natural Language Processing (NLP) to analyze customer reviews and predict sentiment (positive, negative, neutral).
-- **Technologies Used**: Python, NLTK, Scikit-learn, Pandas
+1)  ATM Interface: [Java, Object-Oriented Programming, Exception Handling ]                                    
+Developed ATM simulation system in Java using OOP principles, implementing 3 functions 
+Designed interactive UI enabling smooth execution of 3 core banking operations 
+Implemented input validation with 2 classes ensuring secure and accurate transactions 
+2) Superstore Sales Report Dashboard: [Power BI, Data Visualization, Data Analysis]    
+Designed an interactive Power BI dashboard to analyze Superstore sales data efficiently 
+Enabled dynamic filtering and drill-downs to enhance data exploration and clarity 
+Delivered 12% profit drop insights, 8% product gains, and 40% faster reporting 
+3) Amazon Prime Video Dashboard: [Tableau, Excel, Data Visualization, Data Analysis]      
+Designed and developed an interactive Tableau dashboard to analyze and visualize data 
+Visualized 9,000+ titles using Radial Bars, Donut Charts, and Bar Graphs 
+Found 80.82% were movies, 24.7% were drama, and 39% from the U.S 
+4)  Sudoku Solver Visualizer: [Java]       
+Developed interactive GUI with Java Swing to enhance user solving experience 
+Optimized algorithm solves 9x9 puzzles in under 0.1 seconds efficiently 
+Achieved 100% solution accuracy, reduced solving time by 90%, improved usability 
 
 ## 🏆 Achievements
-- **Hackathon Winner**: Won the 2nd place at LPU’s annual Hackathon for developing a machine learning-based solution for traffic prediction.
-- **Coursework Excellence**: Consistently ranked in the top 10% of my class for Data Science and Machine Learning-related courses.
-- **Internship**: Completed an internship at XYZ Tech, where I worked on data cleaning and feature engineering for predictive models.
-
-## 📬 Contact Me
-Feel free to reach out to me if you are interested in collaborating or discussing exciting projects in Data Science and Machine Learning!
+1) Solved 250+ problems on LeetCode and GeeksforGeeks:                                                                            
+Demonstrated problem-solving skills by solving DSA challenges in Java on LeetCode and  GFG 
+2)  Selected for Smart India Hackathon(SIH):                                                                                                                      
+Secured selection for SIH after competing in the university-level hackathon 
+3)  Finalist in Hacker-Ramp: WeForShe (Myntra):                                                                                               
+Secured a Top 30 rank among 20,000+ participants and 9,000+ teams in a national-level hackathon organized by Myntra 
 
 - **Email**: megha.thakur292@email.com
 - **LinkedIn**: [linkedin.com/in/meghathakur](https://linkedin.com/in/meghathakur28)
